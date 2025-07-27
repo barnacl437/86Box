@@ -190,7 +190,7 @@ msgid "Take s&creenshot"
 msgstr "Chụp &màn hình"
 
 msgid "S&ound"
-msgstr "&Thanh âm"
+msgstr "Â&m thanh"
 
 msgid "&Preferences..."
 msgstr "&Tùy biến..."
@@ -688,7 +688,7 @@ msgid "Input devices"
 msgstr "Thiết bị nhập"
 
 msgid "Sound"
-msgstr "Thanh âm"
+msgstr "Âm thanh"
 
 msgid "Network"
 msgstr "Nối mạng"
@@ -2035,7 +2035,7 @@ msgid "Host Serial Passthrough"
 msgstr "Thông qua cổng serial của máy chủ"
 
 msgid "E&ject %1"
-msgstr "Đẩy đĩ&a ra %1"
+msgstr "Đẩy đĩ&a %1 ra"
 
 msgid "&Unmute"
 msgstr "&Mở tiếng"
@@ -2092,58 +2092,58 @@ msgid "Inhibit multimedia keys"
 msgstr ""
 
 msgid "Ask for confirmation before saving settings"
-msgstr ""
+msgstr "Hiện hộp thoại xác nhận trước khi lưu cài đặt"
 
 msgid "Ask for confirmation before hard resetting"
-msgstr ""
+msgstr "Hiện hộp thoại xác nhận trước khi buộc khởi động lại"
 
 msgid "Ask for confirmation before quitting"
-msgstr ""
+msgstr "Hiện hộp thoại xác nhận trước khi thoát"
 
 msgid "Options"
-msgstr ""
+msgstr "Tùy chọn"
 
 msgid "Model"
-msgstr ""
+msgstr "Mẫu máy"
 
 msgid "Model:"
-msgstr ""
+msgstr "Mẫu máy"
 
 msgid "Failed to initialize Vulkan renderer."
-msgstr ""
+msgstr "Không thể khởi tạo renderer Vulkan."
 
 msgid "GLSL Error"
-msgstr ""
+msgstr "Lỗi GLSL"
 
 msgid "Could not load shader: %1"
-msgstr ""
+msgstr "Không thể nạp shader: %1"
 
 msgid "OpenGL version 3.0 or greater is required. Current GLSL version is %1.%2"
-msgstr ""
+msgstr "Yêu cầu OpenGL bản 3.0 trở lên. Hiện tại bản GLSL là %1.%2"
 
 msgid "Could not load texture: %1"
-msgstr ""
+msgstr "Không thể nạp texture: %1"
 
 msgid "Could not compile shader:\n\n%1"
-msgstr ""
+msgstr "Không thể biên dịch shader:\n\n%1"
 
 msgid "Program not linked:\n\n%1"
-msgstr ""
+msgstr "Chương trình không được liên kết:\n\n%1"
 
 msgid "Shader Manager"
-msgstr ""
+msgstr "Trình quản lý shader"
 
 msgid "Shader Configuration"
-msgstr ""
+msgstr "Cấu hình shader"
 
 msgid "Add"
-msgstr ""
+msgstr "Thêm"
 
 msgid "Move up"
-msgstr ""
+msgstr "Chuyển lên"
 
 msgid "Move down"
-msgstr ""
+msgstr "Chuyển xuống"
 
 msgid "Could not load file %1"
-msgstr ""
+msgstr "Không thể nạp file %1"
